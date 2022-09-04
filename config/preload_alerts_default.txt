@@ -7,6 +7,10 @@
 #
 ###################################################################################################
 # BREACH
+
+Metadata/Monsters/Daemon/SolarisFinalFormDaemon; SolarisFinalFormDaemon; ff3399ff
+Metadata/Monsters/Daemon/LunarisFinalFormDaemon; LunarisFinalFormDaemon; ff3399ff
+
 Metadata/Chests/Breach/BreachChest1Large; Xoph's Clasped Hand; ffFF5A5A
 Metadata/Chests/Breach/BreachChest2Large; Tul's Clasped Hand; ffE0ffff
 Metadata/Chests/Breach/BreachChest3Large; Esh's Clasped Hand; ff6495ED
