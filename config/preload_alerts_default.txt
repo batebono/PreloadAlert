@@ -284,14 +284,6 @@ Metadata/Monsters/Daemon/EssenceDaemonHorror1; Essence of Horror; ffff0000
 Metadata/Monsters/Daemon/EssenceDaemonTerror1_; Essence of Delirium; ffff0000
 
 #EXPEDITION
-Metadata/Monsters/LeagueExpedition/NPC/ExpeditionRog;Rog [Items crafter];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/Rog.ao;Rog [Items crafter];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/ExpeditionTujen;Tujen [Currency gambler];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/Tujen.ao;Tujen [Currency gambler];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/Gwennen.ao;Gwennen [Items gambler];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/ExpeditionGwennen_;Gwennen [Items gambler];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/ExpeditionDannig;Dannig [Exchange items];ff00FF00
-Metadata/Monsters/LeagueExpedition/NPC/Dannig.ao;Dannig [Exchange items];ff00FF00
 
 ###################################################################################################
 #
@@ -507,28 +499,6 @@ Metadata/Monsters/Goatman/GoatmanLeapBossSideAreaInvasion; Invasion Boss, Konu, 
 Metadata/Monsters/Kiweth/KiwethBossSideAreaInvasion; Invasion Boss, Inti of the Blood Moon; ffDC143C
 
 # TORMENTED SPIRITS
-Metadata/Monsters/Spirit/TormentedArsonist; Tormented Arsonist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedFreezer; Tormented Aurora Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedBlasphemer; Tormented Blasphemer; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCannibal; Tormented Cannibal; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCharlatan; Tormented Charlatan; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCutthroat; Tormented Cutthroat; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedEmbezzler; Tormented Embezzler; ffFF00FF
-Metadata/Monsters/Spirit/TormentedCounterfeiter; Tormented Forger; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedMartyr; Tormented Martyr; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedMutilator; Tormented Mutilator; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedNecromancer; Tormented Necromancer; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedPoisoner; Tormented Poisoner; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedRogue; Tormented Rogue; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedLibrarian; Tormented Seditionist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedSmuggler; Tormented Smuggler; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedSpy; Tormented Spy; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedExperimenter; Tormented Storm Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedThief; Tormented Thief; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedThug; Tormented Thug; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedCorrupter; Tormented Vaal Cultist; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedWarlord; Tormented Warlord; ffC6FFC6
-Metadata/Monsters/Spirit/TormentedFisherman; Tormented Illegal Fisherman; ffFF00FF
 
 # WARBANDS
 Metadata/Monsters/Wb/WbLightningGrunt1; Brinerot Raider
