@@ -284,6 +284,7 @@ Metadata/Monsters/Daemon/EssenceDaemonHorror1; Essence of Horror; ffff0000
 Metadata/Monsters/Daemon/EssenceDaemonTerror1_; Essence of Delirium; ffff0000
 
 #EXPEDITION
+Metadata/Monsters/LeagueExpedition/Olroth/Objects/ArenaDoor; Olroth; ff3399ff
 
 ###################################################################################################
 #
